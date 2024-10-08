@@ -1,3 +1,8 @@
+# Ignore Vosk model directory
 static/vosk-model-fa-0.5/
+
+# Ignore media directory
 media/
+
+# Ignore environment variables file
 .env
